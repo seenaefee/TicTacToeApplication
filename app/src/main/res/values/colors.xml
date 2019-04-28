@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="xrengi">#d1370c</color>
+    <color name= "orengi">#0c0fd1</color>
+    <color name= "butonrengi">#efe11b</color>
+    <color name= "btn">#d4d4ce</color>
+</resources>
